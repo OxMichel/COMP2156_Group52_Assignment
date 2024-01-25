@@ -1,2 +1,4 @@
-George Brown College is a post secondary institute located in Toronto, Ontario. It is named after George Brown, a Canadian politician, journalist, and Father of Confederation.
-George Brown has three campuses, Waterfront, Casa Loma, and St. Jmaes.
+George Brown College is a post secondary institute located in Toronto, Ontario.
+ It is named after George Brown, a Canadian politician, journalist, and Father of Confederation.
+George Brown has three campuses, Waterfront, Casa Loma, and St. James.
+It works very closely with industry leader CISCO for it's Computer System's Technician program.

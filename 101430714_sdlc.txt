@@ -1,2 +1,3 @@
 SDLC stands for the software development lifecycle.
 It is a means of streamlining and structuring software development to save time and resources.
+It is the basis of DevOps engineering, and without it source code would be difficult to understand, bugs would make it to production more, and timelines would be difficult or impossible to predict.

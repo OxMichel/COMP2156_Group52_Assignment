@@ -1,2 +1,3 @@
 DevOps is a course offered by George Brown College in the Computer Systems Technician course.
+It gives a general introduction to the role of a DevOps engineer.
 

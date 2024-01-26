@@ -1,0 +1,3 @@
+Software Development Life Cycle
+
+- SLDC is a structured and systematic approach to software development

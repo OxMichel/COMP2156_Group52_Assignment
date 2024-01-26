@@ -6,3 +6,4 @@ Software Development Life Cycle
 
 - SDLC minimizes risk by identifying and addressing issues early in the development process
 
+- SDLC has testing phases to ensure the software meets the quality standards

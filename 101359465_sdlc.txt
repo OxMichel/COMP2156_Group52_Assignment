@@ -1,5 +1,8 @@
 Software Development Life Cycle
 
-- SLDC is a structured and systematic approach to software development
+- SDLC is a structured and systematic approach to software development
 
-- SLDC has 7 stages (Planning, Analysis, Design, Implementation, Testing, Deployment and Maintenance)
+- SDLC has 7 stages (Planning, Analysis, Design, Implementation, Testing, Deployment and Maintenance)
+
+- SDLC minimizes risk by identifying and addressing issues early in the development process
+

@@ -1,1 +1,2 @@
 COMP 2156 DevOps is a comprehensive course designed to educate students about modern DevOps procedures, protocols, and best practices to optimize productivity.
+Throughout the course, students will cover various topics such as introduction to DevOps, version control for DevOps, developer operations landscape, automating software builds, continuous integration/deployment, data storage and cloud databases.

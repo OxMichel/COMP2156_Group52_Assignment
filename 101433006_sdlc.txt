@@ -1,1 +1,2 @@
 DevOps engineers, significantly streamline the software development cycle, ensuring quick transitions from development to deployment by implementing integration and deployment processes.
+A major goal of an DevOps Engineer is to increase productivity in the workplace.

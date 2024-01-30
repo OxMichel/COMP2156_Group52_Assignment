@@ -3,3 +3,6 @@ and deployment.
 
 
 Automated testing and continuous monitoring result in higher-quality software with fewer defects, leading to enhanced reliability and customer satisfaction in sdlc. 
+
+
+DevOps incorporates security measures throughout the SDLC, ensuring that security is not an afterthought but an integral part of the development process.

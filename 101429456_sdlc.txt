@@ -1,2 +1,5 @@
 The first key benefit of SDLC (Software Development Lifecycle) DevOps emphasizes automation, enabling teams to automate repetitive tasks, leading to faster and more reliable software development 
-and deployment 
+and deployment.
+
+
+Automated testing and continuous monitoring result in higher-quality software with fewer defects, leading to enhanced reliability and customer satisfaction in sdlc. 

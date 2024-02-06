@@ -1,0 +1,7 @@
+The course  explore the DevOps best practices along with some tools and technologies required to implement DevOps.
+
+Helps in Implementing CI pipelines to automate the build and testing process.
+
+One can learn Integration with tools like Jenkins, Travis CI, or GitLab CI.
+
+
